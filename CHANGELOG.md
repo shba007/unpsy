@@ -1,5 +1,17 @@
 # unpsy-web
 
+## v0.7.6
+
+[compare changes](https://github.com/shba007/unpsy-web/compare/v0.7.5...v0.7.6)
+
+### 🏡 Chore
+
+- Update package dependencies and package manager version ([1d54e9a](https://github.com/shba007/unpsy-web/commit/1d54e9a))
+
+### ❤️ Contributors
+
+- Shba007 ([@shba007](https://github.com/shba007))
+
 ## v0.7.5
 
 [compare changes](https://github.com/shba007/unpsy-web/compare/v0.7.4...v0.7.5)
